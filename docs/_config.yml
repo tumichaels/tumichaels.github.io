@@ -22,7 +22,7 @@ title: Michael Tu
 email: michael.tu@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website
-baseurl: "/tumichaels.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/tumichaels.github.io/docs" # the subpath of your site, e.g. /blog
 url: "https://tumichaels.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  tumichaels
